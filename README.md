@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nancom
 - 👀 I’m interested in every progtamming language
 - 🌱 I’m currently learning go
-- 📫 How to reach me https://nancom.info
+- 📫 How to reach me https://nancom.github.io/.
 
 <!---
 nancom/nancom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
